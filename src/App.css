@@ -28,11 +28,14 @@ body {
   scroll-behavior: smooth;
   overflow: hidden;
   overflow-y: scroll;
+  text-decoration: none;
 }
 
 .sidebar a {
   font-size: 14px;
-  color: rgb(139, 0, 0)
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .page {
